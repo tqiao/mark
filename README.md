@@ -13,4 +13,5 @@ https://github.com/redux-saga/redux-saga
 Detail: 
 https://redux-saga.js.org/docs/basics/DeclarativeEffects.html
 
-4. 
+4. React-redux 
+https://github.com/reactjs/react-redux/blob/master/docs/api.md#connectmapstatetoprops-mapdispatchtoprops-mergeprops-options
