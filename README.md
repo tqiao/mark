@@ -10,4 +10,7 @@ https://github.com/reactjs/redux
 3. Redux-sage introduction 
 https://github.com/redux-saga/redux-saga
 
+Detail: 
+https://redux-saga.js.org/docs/basics/DeclarativeEffects.html
+
 4. 
